@@ -14,3 +14,9 @@ h4 {
     color: white;
     background-color: black;
 }
+.h5h6 {
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
